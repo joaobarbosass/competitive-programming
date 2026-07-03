@@ -21,10 +21,10 @@ Este repositório reúne as soluções dos problemas que resolvo durante meus es
 
 <!-- PROGRESS_TABLE -->
 | Origem | Exercícios | Pastas |
-|:-------|------------:|-------:|
-| **Beecrowd** | 6 | 1 |
+|:-------|-----------:|--------:|
+| **Beecrowd** | 6 | 2 |
 | **ChatGPT** | 1 | 0 |
-| **Total** | **7** | - |
+| **Total** | **7** | **2** |
 <!-- /PROGRESS_TABLE -->
 
 ## 📂 Estrutura
