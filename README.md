@@ -23,8 +23,8 @@ Este repositório reúne as soluções dos problemas que resolvo durante meus es
 | Origem | Exercícios | Pastas |
 |:-------|-----------:|--------:|
 | **Beecrowd** | 6 | 2 |
-| **ChatGPT** | 2 | 0 |
-| **Total** | **8** | **2** |
+| **ChatGPT** | 3 | 0 |
+| **Total** | **9** | **2** |
 <!-- /PROGRESS_TABLE -->
 
 ## 📂 Estrutura
